@@ -3,7 +3,7 @@
     "module": "commonjs",
     "target": "es5",
     "strict": true,
-    "noImplicitAny": false,
+    "noImplicitAny": true,
     "sourceMap": false,
     "baseUrl": "./",
     "resolveJsonModule": true,
